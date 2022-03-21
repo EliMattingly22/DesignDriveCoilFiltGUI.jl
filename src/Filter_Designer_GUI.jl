@@ -2,7 +2,7 @@ pygui(true)
 
 
 
-
+export useFilterDesignGUI
 function useFilterDesignGUI()
 win = GtkWindow("Filter Designer")
 g = GtkGrid()
