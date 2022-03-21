@@ -1,0 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+docs/build/
+test/images
+test/DAQ/images
+Manifest.toml
+.vscode
